@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525285159736",
+    "firebase_url": "https://bussinesschat.firebaseio.com",
+    "project_id": "bussinesschat",
+    "storage_bucket": "bussinesschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525285159736:android:a7addd02e2ad498a",
+        "android_client_info": {
+          "package_name": "riksasuviana.apps.onlinechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525285159736-g5rtftpsgjh67eucl34v4ot21v4ct0h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "riksasuviana.apps.onlinechat",
+            "certificate_hash": "C7682D430123492CB4C2E516AE4BCE2E2357BA9C"
+          }
+        },
+        {
+          "client_id": "525285159736-kvp4c5j7j2ho565ksfkkviqurm82tgrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPs48mVyfOqTnWhcBwB-QZmo9oGah-24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525285159736-kvp4c5j7j2ho565ksfkkviqurm82tgrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
